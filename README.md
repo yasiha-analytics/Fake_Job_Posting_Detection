@@ -136,15 +136,5 @@ Data visualization
 Streamlit application development
 Python programming
 
-
 📌 Conclusion
 This project demonstrates how NLP and Machine Learning can be applied to classify potentially fraudulent job postings and provide an interactive solution for analyzing job descriptions.
-
-## 👩‍💻 Author
-
-**Yash**
-
-📊 Data Analyst | SQL | Power BI | Python | Excel
-
-🔗 **GitHub:** [yasiha-analytics](https://github.com/yasiha-analytics)  
-🔗 **LinkedIn:** [yasiha-d](https://www.linkedin.com/in/yasiha-d-b1b54a372/)
